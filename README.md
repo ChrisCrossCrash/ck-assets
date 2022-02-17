@@ -5,10 +5,18 @@ A small collection of assets for use with Three.js.
 Simply execute this command in the directory where you want to install the assets:
 
 ```
+# Run this in your `public` directory
 npx @chris-cross-crash/ck-assets
 ```
 
-All of the `@react-three/drei` `Environment` preset HDRIs are included:
+You could also use [`degit`](https://www.npmjs.com/package/degit) if you prefer. This is handy if you just want a subfolder like `hdri`:
+
+```
+# Run this in your `public` directory.
+npx degit github:ChrisCrossCrash/ck-assets/assets/hdri
+```
+
+All of the [`@react-three/drei`](https://github.com/pmndrs/drei) [`Environment`](https://docs.pmnd.rs/drei/abstractions/enviroment) preset HDRIs are included:
 
 - apartment: `lebombo_1k.hdr`
 - city: `potsdamer_platz_1k.hdr`

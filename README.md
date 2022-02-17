@@ -2,15 +2,10 @@
 
 A small collection of assets for use with Three.js.
 
-To create a new `public/ck-assets/` directory which contains all of the assets, execute the following in your `public` directory:
+Simply execute this command in the directory where you want to install the assets:
 
 ```
-npx degit github:ChrisCrossCrash/ck-assets ck-assets
-```
-
-Or, for example, if you want just a sub-directory:
-```
-npx degit github:ChrisCrossCrash/ck-assets/hdri/ hdri
+npx ck-assets
 ```
 
 All of the `@react-three/drei` `Environment` preset HDRIs are included:

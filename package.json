@@ -1,0 +1,25 @@
+{
+  "name": "ck-assets",
+  "version": "1.0.0",
+  "description": "A library of assets for use with Three.js",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCrossCrash/ck-assets.git"
+  },
+  "author": "Chris Kumm <chrislkumm@protonmail.com> (https://www.chriskumm.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ChrisCrossCrash/ck-assets/issues"
+  },
+  "homepage": "https://github.com/ChrisCrossCrash/ck-assets#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  }
+}

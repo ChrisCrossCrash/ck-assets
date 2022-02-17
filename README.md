@@ -5,7 +5,7 @@ A small collection of assets for use with Three.js.
 Simply execute this command in the directory where you want to install the assets:
 
 ```
-npx ck-assets
+npx @chris-cross-crash/ck-assets
 ```
 
 All of the `@react-three/drei` `Environment` preset HDRIs are included:
